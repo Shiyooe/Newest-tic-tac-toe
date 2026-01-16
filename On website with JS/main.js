@@ -1,1 +1,1 @@
-
+const game = new TicTacToeGame();
